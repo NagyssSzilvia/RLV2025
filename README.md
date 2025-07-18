@@ -7,7 +7,7 @@ Ez a repozitórium a Nagy Szilvia: "Digitális projektek matematikából" Rátz 
 
 ## Hivatkozások 
 
-- [Eredeti Prezentáció anyaga](https://prezi.com/p/edit/yborjk3xwycp/)
+- [Eredeti Prezentáció anyaga](https://prezi.com/p/yborjk3xwycp/nagy-szilvia-digitalis-projektfeladatok-matematikabol/)
 - [Rátz László vándorgyűlés hivatalos weboldala](https://www.bolyai.hu/rendezvenyek-ratz-laszlo-vandorgyules/)
 - [NotebookLM - forrásfeldolgozás MI segítségével: átfogó és mélyreható válaszokat ad a kérdéseinkre, a megadott forrásanyagok és a beszélgetésünk története alapján, mindig hivatkozva a forrásokra, és kiemelve az azokból származó főbb koncepciókat és részleteket](https://notebooklm.google.com/)
 - [Digitális témahét anyagai](https://digitalistemahet.hu/temahetrol)
